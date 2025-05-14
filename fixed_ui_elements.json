@@ -1,0 +1,302 @@
+{
+    "get_back1": {
+        "roi": [
+            874,
+            5,
+            1036,
+            164
+        ],
+        "template_path": "templates/get_back1.png",
+        "size": [
+            162,
+            159
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "get_back2": {
+        "roi": [
+            853,
+            164,
+            998,
+            274
+        ],
+        "template_path": "templates/get_back2.png",
+        "size": [
+            145,
+            110
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "next_task1": {
+        "roi": [
+            537,
+            1618,
+            905,
+            1747
+        ],
+        "template_path": "templates/next_task1.png",
+        "size": [
+            368,
+            129
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "get_back3": {
+        "roi": [
+            896,
+            21,
+            1042,
+            172
+        ],
+        "template_path": "templates/get_back3.png",
+        "size": [
+            146,
+            151
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "close_button1": {
+        "roi": [
+            954,
+            422,
+            1064,
+            529
+        ],
+        "template_path": "templates/close_button1.png",
+        "size": [
+            110,
+            107
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "close_button2": {
+        "roi": [
+            927,
+            60,
+            1025,
+            156
+        ],
+        "template_path": "templates/close_button2.png",
+        "size": [
+            98,
+            96
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "collect": {
+        "roi": [
+            274,
+            1475,
+            800,
+            1642
+        ],
+        "template_path": "templates/collect.png",
+        "size": [
+            526,
+            167
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "close_button3": {
+        "roi": [
+            927,
+            142,
+            1050,
+            263
+        ],
+        "template_path": "templates/close_button3.png",
+        "size": [
+            123,
+            121
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "close_button4": {
+        "roi": [
+            946,
+            244,
+            1034,
+            326
+        ],
+        "template_path": "templates/close_button4.png",
+        "size": [
+            88,
+            82
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "close_button5": {
+        "roi": [
+            918,
+            30,
+            1025,
+            150
+        ],
+        "template_path": "templates/close_button5.png",
+        "size": [
+            107,
+            120
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "collect2": {
+        "roi": [
+            271,
+            1253,
+            806,
+            1420
+        ],
+        "template_path": "templates/collect2.png",
+        "size": [
+            535,
+            167
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "close_button6": {
+        "roi": [
+            932,
+            98,
+            1014,
+            181
+        ],
+        "template_path": "templates/close_button6.png",
+        "size": [
+            82,
+            83
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "close_button7": {
+        "roi": [
+            910,
+            433,
+            1009,
+            534
+        ],
+        "template_path": "templates/close_button7.png",
+        "size": [
+            99,
+            101
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "close_button8": {
+        "roi": [
+            954,
+            359,
+            1061,
+            458
+        ],
+        "template_path": "templates/close_button8.png",
+        "size": [
+            107,
+            99
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "autospin": {
+        "roi": [
+            384,
+            1579,
+            713,
+            1736
+        ],
+        "template_path": "templates/autospin.png",
+        "size": [
+            329,
+            157
+        ],
+        "tappable": false,
+        "long_press": false
+    },
+    "close_button9": {
+        "roi": [
+            973,
+            19,
+            1064,
+            123
+        ],
+        "template_path": "templates/close_button9.png",
+        "size": [
+            91,
+            104
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "lets_battel_again": {
+        "roi": [
+            296,
+            1678,
+            776,
+            1818
+        ],
+        "template_path": "templates/lets_battel_again.png",
+        "size": [
+            480,
+            140
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "reload": {
+        "roi": [
+            318,
+            1124,
+            751,
+            1324
+        ],
+        "template_path": "templates/reload.png",
+        "size": [
+            433,
+            200
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "okay": {
+        "roi": [
+            296,
+            1675,
+            776,
+            1818
+        ],
+        "template_path": "templates/okay.png",
+        "size": [
+            480,
+            143
+        ],
+        "tappable": true,
+        "long_press": false
+    },
+    "chest": {
+        "roi": [
+            279,
+            1217,
+            768,
+            1629
+        ],
+        "template_path": "templates/chest.png",
+        "size": [
+            489,
+            412
+        ],
+        "tappable": true,
+        "long_press": false
+    }
+}

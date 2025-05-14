@@ -1,0 +1,119 @@
+{
+    "X1": {
+        "roi": [
+            390,
+            1582,
+            690,
+            1682
+        ],
+        "template_path": "templates/default_X1.png",
+        "size": [
+            300,
+            100
+        ]
+    },
+    "X2": {
+        "roi": [
+            390,
+            1582,
+            690,
+            1682
+        ],
+        "template_path": "templates/default_X2.png",
+        "size": [
+            300,
+            100
+        ]
+    },
+    "X3": {
+        "roi": [
+            390,
+            1582,
+            690,
+            1682
+        ],
+        "template_path": "templates/default_X3.png",
+        "size": [
+            300,
+            100
+        ]
+    },
+    "X15": {
+        "roi": [
+            390,
+            1582,
+            690,
+            1682
+        ],
+        "template_path": "templates/default_X15.png",
+        "size": [
+            300,
+            100
+        ]
+    },
+    "X50": {
+        "roi": [
+            390,
+            1582,
+            690,
+            1682
+        ],
+        "template_path": "templates/default_X50.png",
+        "size": [
+            300,
+            100
+        ]
+    },
+    "X400": {
+        "roi": [
+            390,
+            1582,
+            690,
+            1682
+        ],
+        "template_path": "templates/default_X400.png",
+        "size": [
+            300,
+            100
+        ]
+    },
+    "X1500": {
+        "roi": [
+            390,
+            1582,
+            690,
+            1682
+        ],
+        "template_path": "templates/default_X1500.png",
+        "size": [
+            300,
+            100
+        ]
+    },
+    "X6000": {
+        "roi": [
+            390,
+            1582,
+            690,
+            1682
+        ],
+        "template_path": "templates/default_X6000.png",
+        "size": [
+            300,
+            100
+        ]
+    },
+    "X20000": {
+        "roi": [
+            390,
+            1582,
+            690,
+            1682
+        ],
+        "template_path": "templates/default_X20000.png",
+        "size": [
+            300,
+            100
+        ]
+    }
+}

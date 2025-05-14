@@ -1,0 +1,23 @@
+numpy>=1.20.0
+opencv-python>=4.5.5
+torch>=1.12.0
+torchvision>=0.13.0
+PyYAML>=6.0
+tqdm>=4.64.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+psutil>=5.9.0
+ultralytics>=8.0.0  # For YOLOv5/YOLOv11 compatibility
+
+
+
+torch==2.1.0+cu121
+torchvision==0.15.1+cu121
+torchaudio==2.1.0
+opencv-python==4.7.0.72
+ultralytics==8.0.89
+adbutils==0.7.2
+numpy==1.26.4
+psycopg2-binary==2.9.9
+pillow==11.1.0
+

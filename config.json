@@ -1,0 +1,23 @@
+{
+  "device_id": null,
+  "model_path": "C:/Users/Dambe/Desktop/Coin Master/New folder/my_modelv2/models/my_model.pt",
+  "power_boost_templates_path": "power_boost_templates.json",
+  "detection_confidence": 0.5,
+  "action_delay": 0.5,
+  "power_boost_sequence": [
+    {
+      "level": "X1",
+      "attacks": 1
+    },
+    {
+      "level": "X50",
+      "attacks": 1
+    },
+    {
+      "level": "X20000",
+      "attacks": 1
+    }
+  ],
+  "log_level": "INFO",
+  "debug_mode": false
+}
